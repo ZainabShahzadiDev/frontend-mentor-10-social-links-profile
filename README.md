@@ -20,6 +20,6 @@ A clean and minimal **profile card** with social media links built using **HTML 
 
 👉 [View Project Live](https://zainabshahzadidev.github.io/frontend-mentor-10-social-links-profile/)
 
-## 🖼️ Preview
+##  Preview
 
 ![Project Preview](/assets/images/PreviewScreenshot.jpg)
